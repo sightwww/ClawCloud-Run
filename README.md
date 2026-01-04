@@ -1,3 +1,4 @@
+202512对免费用户要求每月登录一次账号，否则会停掉甚至删除项目
 # ClawCloud-Run 自动登录助手
 
 这是一个通过 GitHub Actions 实现的自动化脚本，用于定时自动登录 [ClawCloudRun](https://console.run.claw.cloud/signin?link=WRJQ4YKZNLI5)，以保持账户活跃。
